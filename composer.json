@@ -1,7 +1,7 @@
 {
-  "name": "idavoll/menu-module",
+  "name": "kbmore231/menutest",
   "type": "asgard-module",
-  "description": "Menu module for AsgardCMS. Handles all the menus.",
+  "description": "Testing for create repo and install purpose Menu module for AsgardCMS. Handles all the menus.",
   "keywords": [
     "asgardcms",
     "menu",
